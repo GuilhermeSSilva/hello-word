@@ -1,2 +1,2 @@
-# hello-word
-Teste inicial
+# hello world
+Desta vez o texto em inglês está certo.

@@ -1,2 +1,2 @@
 # hello world
-Desta vez o texto em inglês está certo.
+Desta vez o texto em inglês está correto.

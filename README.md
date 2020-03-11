@@ -1,3 +1,3 @@
-# hello-word
 Teste inicial
-Testando o teste -
+hello world
+Desta vez o texto em inglês está correto.
